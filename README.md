@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```bash
 
 
-export MONGODB_URL="mongodb+srv://<username>:<password>...."
+export MONGODB_URL="mongodb+srv://vamshi866:vamshi866@cluster0.07w40na.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 
